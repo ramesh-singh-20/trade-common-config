@@ -11,7 +11,7 @@ app:
   microservice:
     portfolio:
       endpoints:
-        assest: http://PORTFOLIO-INTERNAL-MS/portfolio/asset
+        asset: http://PORTFOLIO-INTERNAL-MS/portfolio/asset
 spring:
   datasource:
     username: ${database_username}
